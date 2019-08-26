@@ -1,0 +1,14 @@
+{
+  "name": "dynamodb_test",
+  "version": "1.0.0",
+  "description": "working with dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "pooja",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.516.0"
+  }
+}

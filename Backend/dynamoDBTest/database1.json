@@ -1,0 +1,16 @@
+{
+    "abelmosk": {
+      "text": "abelmosk",
+      "tags": {
+        "SPICE_HERB": 1,
+        "Cola": 1
+      }
+    },
+    "absinthe wormwood": {
+        "text": "absinthe wormwood",
+        "tags": {
+          "SPICE_HERB": 1,
+          "Spice": 1
+        }
+    }
+}
