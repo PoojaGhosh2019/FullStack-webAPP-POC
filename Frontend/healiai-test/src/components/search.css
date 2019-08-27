@@ -1,0 +1,14 @@
+.search {
+    width: 100%;
+    height: auto;
+    background: #1c1c1c;
+    position: relative;
+    padding: 25px 25px 20px 300px;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+  .ingredients{
+    padding: 10px 0px 0px 0px;
+}
+
